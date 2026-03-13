@@ -8,18 +8,19 @@ CyberPorza-AdminFinder is a rapid discovery tool developed to locate hidden admi
 - Fast Discovery: Scans the most common admin paths in seconds.
 - Cool Interface: Features high-quality CyberPorza ASCII Art and color-coded terminal outputs.
 - Status Tracking: Reports HTTP response codes like 200 (Success) and 403 (Forbidden).
+- Error Handling: Robust architecture resilient to connection timeouts and user interrupts.
 
 🚀 Installation & Usage:
 1. Clone the repository:
-
-   git clone https://github.com/YOUR_USERNAME/CyberPorza-AdminFinder.git
+   ```Bash
+   git clone https://github.com/CyberPorza/CyberPorza-AdminFinder.git
 
 2. Enter the directory:
-
+   ```Bash
    cd CyberPorza-AdminFinder
 
 3. Run the tool:
-
+   ```Bash
    python3 admin_finder.py <target_url>
 
 ⚠️ Disclaimer
@@ -37,21 +38,22 @@ Hızlı ve verimli bir Yönetici Paneli Keşif aracı, Python ile yazılmıştı
 **CyberPorza-AdminFinder**, hedef web sitelerindeki gizli yönetim panellerini ve giriş sayfalarını (admin, login, panel vb.) bulmak için geliştirilmiş hızlı bir araçtır. 
 
 ✨ Özellikler:
-- Hızlı Tarama:** En yaygın yönetim paneli yollarını saniyeler içinde kontrol eder.
-- Afilli Arayüz:** CyberPorza imzalı ASCII sanatı ve renkli terminal çıktıları.
-- Durum Takibi:** 200 (Erişilebilir) ve 403 (Yasaklı) gibi HTTP yanıtlarını raporlar.
+- Hızlı Tarama: En yaygın yönetim paneli yollarını saniyeler içinde kontrol eder.
+- Afilli Arayüz: CyberPorza imzalı ASCII sanatı ve renkli terminal çıktıları.
+- Durum Takibi: 200 (Erişilebilir) ve 403 (Yasaklı) gibi HTTP yanıtlarını raporlar.
+- Hata Yönetimi: Bağlantı zaman aşımlarına ve kullanıcı müdahalelerine karşı dayanıklı yapı.
 
 🚀 Kurulum ve Kullanım:
 1. Depoyu klonlayın:
-   
-   git clone [https://github.com/CyberPorza/CyberPorza-AdminFinder.git](https://github.com/CyberPorza/CyberPorza-AdminFinder.git)
+   ```Bash
+   git clone https://github.com/CyberPorza/CyberPorza-AdminFinder.git
    
 2. Klasöre girin:
-
+   ```Bash
    cd CyberPorza-AdminFinder
 
 3. Aracı çalıştırın:
-
+   ```Bash
    python3 admin_finder.py <hedef_url>
 
 ⚠️ Uyarı
