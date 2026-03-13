@@ -1,4 +1,5 @@
 🛡️ CyberPorza-AdminFinder v1.1
+
 A fast and efficient Admin Panel Discovery tool, written in Python. Designed for security researchers and ethical hackers to identify the management interfaces of target websites.
 
 🇺🇸 English Description
@@ -31,8 +32,6 @@ For educational and ethical testing purposes only. Scanning websites without exp
 🛡️ CyberPorza-AdminFinder v1.1
 
 Hızlı ve verimli bir Yönetici Paneli Keşif aracı, Python ile yazılmıştır. Güvenlik araştırmacıları ve etik hackerlar için hedef web sitelerinin yönetim arayüzlerini tespit etmek amacıyla tasarlanmıştır.
-
----
 
 🇹🇷 Türkçe Açıklama
 **CyberPorza-AdminFinder**, hedef web sitelerindeki gizli yönetim panellerini ve giriş sayfalarını (admin, login, panel vb.) bulmak için geliştirilmiş hızlı bir araçtır. 
